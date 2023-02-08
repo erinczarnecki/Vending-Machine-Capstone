@@ -1,16 +1,12 @@
 ## Vending Machine Capstone  
---- 
 This was a capstone project completed for [Merit America's](https://meritamerica.org/) Fullstack Java Web Developer Bootcamp - A 31-week intensive program focused on Full Stack Web Application Development, including hands-on 
 coursework in Java Development, Client-Server Programming (SQL + Spring), and Frontend Development (Classic Web + React).  
 
 Program Capstone Project 1 of 3.  
 
----  
-
 ## Project Description
 Virtual vending machine application with command-line interface allowing users to deposit money, choose a product, and return the correct change. Inventory is loaded via a text file and transactions are also logged to a text file.  
 
---- 
 
 ## Table of Contents
 - [Vending Machine Capstone](#vending-machine-capstone)
@@ -22,7 +18,6 @@ Virtual vending machine application with command-line interface allowing users t
   - [Getting Started](#getting-started)
 - [Team Members](#team-members)
 
---- 
 
 ## Project Requirements
 1. Each vending machine item has a name and a price
@@ -98,7 +93,6 @@ input and output to as few classes as possible.
 11. Provide unit tests demonstrating that your code works correctly.
 
 --- 
---- 
 
 ## Running the Application
 
@@ -116,8 +110,6 @@ input and output to as few classes as possible.
 
 
 --- 
---- 
-
 
 ## Team Members
 - Erin Czarnecki - <a href="https://www.linkedin.com/in/erin-czarnecki" target="_blank">LinkedIn</a> - <a href="https://github.com/erinczarnecki" target="_blank">GitHub</a>
