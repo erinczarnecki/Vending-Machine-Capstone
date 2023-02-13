@@ -99,7 +99,7 @@ input and output to as few classes as possible.
 ### Requirements
 - [JDK 11](https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html)
 - [Maven](https://maven.apache.org/download.cgi)
-- IDE - The program built with [IntelliJ]()
+- IDE - The program built with [IntelliJ](https://www.jetbrains.com/idea/)
 
 ### Getting Started
 1. Download code and open with IDE capable of running Java programs
